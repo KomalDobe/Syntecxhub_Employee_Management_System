@@ -3,9 +3,8 @@
 📌 Description
 
 Employee Management System is a console-based Java application developed using the Java Collections Framework.
-This system allows users to add, view, update, and delete employee records efficiently through a menu-driven interface.
-
-This project is developed as part of the Syntecxhub Java Programming Internship Task to demonstrate practical knowledge of Java collections and object-oriented programming concepts.
+It allows users to add, view, update, and delete employee records through a simple menu-driven interface.
+This project is developed as part of the Syntecxhub Java Programming Internship Task.
 
 🛠️ Technologies Used
 
@@ -15,7 +14,7 @@ Java Collections (ArrayList)
 
 Object-Oriented Programming (OOP)
 
-Scanner class
+Scanner Class
 
 ✨ Features
 
